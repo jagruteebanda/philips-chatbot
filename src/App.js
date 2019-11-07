@@ -12,6 +12,7 @@ class App extends Component {
     super(props);
     this.state = {
       productValue: "",
+      userName: "",
       steps: [
         {
           id: "1",
@@ -97,7 +98,58 @@ class App extends Component {
           id: "searchProduct",
           component: <Products type={"{ previousValue }"} />,
           asMessage: true,
+          trigger: "boughtProduct"
+        },
+        {
+          id: "boughtProduct",
+          message: "Did you buy any product?",
+          trigger: "answerIfBuy"
+        },
+        {
+          id: "answerIfBuy",
+          options: [
+            {
+              value: "yes",
+              label: "Yes",
+              trigger: "yesBought"
+            },
+            {
+              value: "no",
+              label: "No",
+              trigger: "notBought"
+            }
+            // {
+            //   value: "other",
+            //   label: "Want to see other products",
+            //   trigger: "product"
+            // }
+          ]
+        },
+        {
+          id: "yesBought",
+          message: "Congratulations! You are rewarded with 1000 points!",
+          trigger: "redeem"
+        },
+        {
+          id: "redeem",
+          message: "You can redeem it for the next purchase",
+          trigger: "likeProduct"
+        },
+        {
+          id: "likeProduct",
+          message: "Hope you like the product!",
+          trigger: "thankyou"
+        },
+        {
+          id: "thankyou",
+          message:
+            "Thank you for your time! See you again! Have a nice day! Bye bye!",
           end: true
+        },
+        {
+          id: "notBought",
+          message: "You can always buy later. Do visit again..",
+          trigger: "thankyou"
         },
         {
           id: "shavers",

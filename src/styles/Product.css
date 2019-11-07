@@ -17,3 +17,38 @@ img {
   border-radius: 4px;
   padding: 5px;
 }
+
+.share-btn {
+  display: inline-block;
+  color: #e6e6e6;
+  border: none;
+  padding: 0.5em;
+  width: 4em;
+  box-shadow: 0 2px 0 0 rgba(0, 0, 0, 0.2);
+  outline: none;
+  text-align: center;
+}
+
+.share-btn:hover {
+  color: #eeeeee;
+}
+
+.share-btn:active {
+  position: relative;
+  top: 2px;
+  box-shadow: none;
+  color: #e2e2e2;
+  outline: none;
+}
+
+.whatsapp {
+  color: green;
+}
+
+.facebook {
+  color: darkblue;
+}
+
+.email {
+  color: red;
+}

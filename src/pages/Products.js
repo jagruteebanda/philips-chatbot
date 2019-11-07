@@ -74,16 +74,42 @@ const Products = props => {
                 <td>{`₹ ${item.price}`}</td>
               </tr>
               <tr>
-                <button
-                  className="buy-product"
-                  type="button"
-                  value="Buy product"
-                  onClick={() => {
-                    window.open(item.url, "_blank");
-                  }}
-                >
-                  Buy product
-                </button>
+                <td>
+                  <button
+                    className="buy-product"
+                    type="button"
+                    value="Buy product"
+                    onClick={() => {
+                      window.open(item.url, "_blank");
+                    }}
+                  >
+                    Buy product
+                  </button>
+                </td>
+                <td>
+                  Share:
+                  <a
+                    href="https://www.facebook.com/"
+                    target="_blank"
+                    className="share-btn facebook"
+                  >
+                    <i class="fa fa-facebook"></i>
+                  </a>
+                  <a
+                    href="https://web.whatsapp.com/"
+                    target="_blank"
+                    className="share-btn whatsapp"
+                  >
+                    <i class="fa fa-whatsapp"></i>
+                  </a>
+                  <a
+                    href="https://gmail.com"
+                    target="_blank"
+                    className="share-btn email"
+                  >
+                    <i class="fa fa-envelope"></i>
+                  </a>
+                </td>
               </tr>
             </tbody>
             <br />
