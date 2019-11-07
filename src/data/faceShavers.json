@@ -1,0 +1,41 @@
+[
+  {
+    "name": "CloseCut shaving head Electric Shaver Wet & Dry",
+    "model": "AT610/14",
+    "function": "Great skin protection, smooth shave",
+    "speciality": "Great skin protection, smooth shave",
+    "description": "Now you can enjoy a refreshing shave without worrying about damaging your skin. Use AquaTouch with shaving gel or foam for enhanced skin comfort. Aquatec seal ensures a safe, refreshing wet shave. Or use dry for a convenient quick shave.",
+    "characteristics": ["CloseCut shaving head", "Wet&Dry"],
+    "price": "2845",
+    "rating": "4.0",
+    "img_link": "https://images.philips.com/is/image/PhilipsConsumer/AT610_14-IMS-en_IN",
+    "video_link": "",
+    "url": "https://www.buy.philips.co.in/Philips_AquaTouch_Electric_Shaver_Wet_Dry_AT610_14_CloseCut_shaving_head_Wet_Dry_with_Aquatec_Wet_Dry"
+  },
+  {
+    "name": "DualPrecision blades wet and dry electric shaver",
+    "model": "AT890/16",
+    "function": "Great skin protection, smooth shave",
+    "speciality": "wet shave with shaving gel or foam",
+    "description": "Enjoy a refreshing shave without worrying about damaging your skin with this wet & dry shaver. The Aquatec seal ensures a comfortable dry shave and a refreshing wet shave. Use it wet with shaving gel or foam for enhanced skin comfort.",
+    "characteristics": ["DualPrecision blades", "Flexing heads"],
+    "price": "4270",
+    "rating": "4.2",
+    "img_link": "https://images.philips.com/is/image/PhilipsConsumer/AT890_16-A3P-global-001",
+    "video_link": "",
+    "url": "https://www.buy.philips.co.in/Philips_AquaTouch_wet_and_dry_electric_shaver_AT890_DualPrecision_blades_Flexing_heads_with_Aquatec_wet_dry_and_Pop_up_trimmer"
+  },
+  {
+    "name": "Super Lift&Cut wet and dry electric shaver",
+    "model": "AT750/16",
+    "function": "Great skin protection, smooth shave",
+    "speciality": "wet shave with shaving gel or foam",
+    "description": "The Aquatec seal of the Philips shaver ensures a comfortable dry shave and a refreshing wet shave. Use it wet with shaving gel or foam for enhanced skin comfort. Now enjoy a refreshing shave without worrying about damaging your skin.",
+    "characteristics": ["Super Lift&Cut", "Flexing heads"],
+    "price": "4270",
+    "rating": "4.2",
+    "img_link": "https://images.philips.com/is/image/PhilipsConsumer/AT750_16-IMS-en_IN",
+    "video_link": "",
+    "url": "https://www.buy.philips.co.in/Philips_AquaTouch_wet_and_dry_electric_shaver_AT750_Super_Lift_Cut_Flexing_heads_with_Aquatec_wet_dry"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Room size: up to 76m2 Air Cleaner",
+    "model": "AC3256/20",
+    "function": "Breath the difference",
+    "speciality": "with Vitashield IPS and Aerasense technology",
+    "description": "VitaShield IPS technology can naturally remove ultra fine particles as small as 0.02um and 99.97% common airborne allergens effectively over long term. Aerasense technology gives you reassurance by display real time indoor air quality.",
+    "characteristics": [
+      "Room size: up to 76m2",
+      "Removes UFP as small as 0.02um",
+      "Special Allergen mode",
+      "Pollen CADR*: 430"
+    ],
+    "price": "29695",
+    "rating": "4.2",
+    "img_link": "https://images.philips.com/is/image/PhilipsConsumer/AC3256_20-A1P-global-001",
+    "video_link": "",
+    "url": "https://www.buy.philips.co.in/Philips_3000_series_Air_Cleaner_AC3256_20_Room_size__up_to_76m2_Removes_UFP_as_small_as_0.02um_Special_Allergen_mode_Pollen_CADR___430"
+  },
+  {
+    "name": "Air Cleaner",
+    "model": "AC2882/50",
+    "function": "Healthier Air, Always",
+    "speciality": "3 smart ways to optimize your purification",
+    "description": "The 2000 Series is engineered with 3 smart presettings that you can choose from: Pollution, Allergen, and Bacteria & Virus modes. Activate the relevant automode, and ensure you and your family breathe cleaner air at home, always",
+    "characteristics": [],
+    "price": "17995",
+    "rating": "4.2",
+    "img_link": "https://images.philips.com/is/image/PhilipsConsumer/AC2882_50-D1P-global-001",
+    "video_link": "",
+    "url": "https://www.buy.philips.co.in/Philips_Air_Cleaner_AC2882_50"
+  }
+]

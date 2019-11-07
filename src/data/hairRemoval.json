@@ -1,0 +1,33 @@
+[
+  {
+    "name": "PRICE FIGHTER LADYSHAVE BASIC",
+    "model": "HP6306/00",
+    "function": "Ladyshave",
+    "speciality": "Safe and easy shaving",
+    "description": "With this all-round Ladyshave you can shave your whole body quickly, easily and safely. The secret is the small shaving head that cuts quickly while protecting your skin. A soft and smooth feeling after every use!",
+    "characteristics": ["Wet & Dry"],
+    "price": "1346",
+    "rating": "4.2",
+    "img_link": "https://images.philips.com/is/image/PhilipsConsumer/HP6306_00-GAL-en_IN",
+    "video_link": "",
+    "url": "https://www.buy.philips.co.in/Philips_Ladyshave_HP6306_Wet_Dry"
+  },
+  {
+    "name": "For legs, arms and armpits Epilator",
+    "model": "BRE210/00",
+    "function": "Enjoy long-lasting smooth skin",
+    "speciality": "Gently catches 4x shorter hair than wax",
+    "description": "Enjoy long lasting smoothness with Philips Satinelle Advanced epilator. Gently removes hairs at the root, as short as 0.5mm. Hairs grow back thinner and more slowly to enjoy up to 4 weeks hair-free skin. Use wet or dry.",
+    "characteristics": [
+      "For legs, arms and armpits",
+      "2 speed settings",
+      "Cordless",
+      "Root hair removal at home"
+    ],
+    "price": "5395",
+    "rating": "4.2",
+    "img_link": "https://images.philips.com/is/image/PhilipsConsumer/MS591_50-D2P-global-001",
+    "video_link": "",
+    "url": "https://www.buy.philips.co.in/Philips_Satinelle_Advanced_Epilator_BRE210_00_For_legs__arms_and_armpits_2_speed_settings_Cordless_Root_hair_removal_at_home"
+  }
+]

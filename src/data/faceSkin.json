@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Ultimate Facial Cleansing Device",
+    "model": "MS5030/01",
+    "function": "Ultimate facial cleansing for men",
+    "speciality": "For clean, smooth and radiant skin",
+    "description": "With its unique DualMotion technology, Philips VisaPure MEN Essential cleans your face up to 10 times better* than hands and leaves your skin clean, smooth and radiant.",
+    "characteristics": ["Ultimate Facial Cleansing", "DualMotion Technology"],
+    "price": "3595",
+    "rating": "4.2",
+    "img_link": "https://images.philips.com/is/image/PhilipsConsumer/MS5030_01-A1P-global-001",
+    "video_link": "",
+    "url": "https://www.buy.philips.co.in/Philips_VisaPure_MEN_Essential_Facial_Cleansing_Device_MS5030_01_Ultimate_Facial_Cleansing_DualMotion_Technology"
+  },
+  {
+    "name": "Sensitive skin brush head Brush Head Replacement",
+    "model": "MS591/50",
+    "function": "Deep gentle cleansing",
+    "speciality": "For normal to sensitive skin",
+    "description": "The sensitive skin brush reaches every area of your face and removes oil, dirt and dead skin cells gently for a clean and smooth skin.",
+    "characteristics": ["Sensitive skin brush head", "Deep facial cleansing"],
+    "price": "675",
+    "rating": "4.2",
+    "img_link": "https://images.philips.com/is/image/PhilipsConsumer/MS591_50-D2P-global-001",
+    "video_link": "",
+    "url": "https://www.buy.philips.co.in/Philips_VisaPure_MEN_Brush_Head_Replacement_MS591_50_Sensitive_skin_brush_head_Deep_facial_cleansing"
+  }
+]
