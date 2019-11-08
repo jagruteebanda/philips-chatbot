@@ -96,7 +96,8 @@ const Products = props => {
                     <i class="fa fa-facebook"></i>
                   </a>
                   <a
-                    href="https://web.whatsapp.com/"
+                    // href={`https://web.whatsapp.com/send?text=${item.url}`}
+                    href={`https://web.whatsapp.com/send?phone=+919819277479&text=${item.url}`}
                     target="_blank"
                     className="share-btn whatsapp"
                   >

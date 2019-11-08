@@ -142,8 +142,7 @@ class App extends Component {
         },
         {
           id: "thankyou",
-          message:
-            "Thank you for your time! See you again! Have a nice day! Bye bye!",
+          message: "Thank you for your time! See you again! Bye bye!",
           end: true
         },
         {
@@ -158,7 +157,7 @@ class App extends Component {
         },
         {
           id: "feedback",
-          message: "Did you love the product you bought?",
+          message: "Which product did you buy?",
           trigger: "fdbkAns"
         },
         {
